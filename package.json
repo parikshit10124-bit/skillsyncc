@@ -1,0 +1,1 @@
+{"name":"skillsync-ai","version":"1.0.0","private":true,"description":"Resume and job matcher with optional server-side LLM feedback.","scripts":{"start":"node server.js"}}
